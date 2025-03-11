@@ -20,8 +20,8 @@ now = 2025
 age = now - born
 century = (born // 100) + 1
 
-print("Sizning yoshingiz:", age)
-print("Tug‘ilgan asringiz:", century)
+print("Sizning yoshingiz: ", age)
+print("Tug‘ilgan asringiz: ", century)
 
 # 4-misol: Berilgan hafta kunining nomini chiqarish:
 day = int(input("Hafta kunining tartib raqamini kiriting: "))
@@ -41,4 +41,4 @@ elif day == 6:
 elif day == 7:
     print("Yakshanba")
 else:
-    print("Xato!")
+    print("Xatolik! Noto‘g‘ri hafta kuni!")
