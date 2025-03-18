@@ -7,6 +7,7 @@ Welcome to my **Python Projects** repository! This is a collection of various Py
 Here is a quick list of some of the projects included in this repository:
 
 - **[List Operations](./Lesson01.py)**: This project demonstrates basic Python list methods such as append, insert, sort, reverse, pop, and more. It also allows user input and processes a list by performing various operations on it.
+- **[Basic Python Operations](./Lesson02.py)**: This project demonstrates basic Python arithmetic operations, such as addition, subtraction, multiplication, and division. It also includes user input handling to greet the user by their name and calculate the sum of multiple numbers. Additionally, the project showcases common Python list methods such as append, insert, sort, reverse, and pop.
 - **[Basic Python Exercises](./ProgressTest01.py)**: This project includes fundamental Python exercises, such as summing two numbers, checking if a number is even or odd, calculating age and century from birth year, and determining the day of the week based on user input.
 
 
